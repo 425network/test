@@ -2,5 +2,6 @@ test
 ====
 
 Test repository for learning about GitHub
-This is a test of teh emergency broadcast system...
+This is a test of the emergency broadcast system...
+Edited on github instead of within gh for windows
 Cheers... Dave
